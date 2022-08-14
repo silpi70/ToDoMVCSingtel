@@ -1,7 +1,7 @@
 
 ###Steps :
 
-###Please follow the below step to Run from command prompt  :
+###Please follow the below steps to Run from command prompt  :
 
 
 1)clone the project from GitHub (https://github.com/silpi70/ToDoMVCSingtel.git)
@@ -13,7 +13,7 @@
 4)run mvn test command(command :  mvn test)
 
 
-### Please follow the below step to Run from Eclipse IDE  :
+### Please follow the below steps to Run from Eclipse IDE  :
 
 1)clone the project from GitHub (https://github.com/silpi70/ToDoMVCSingtel.git)
 
