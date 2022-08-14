@@ -4,7 +4,7 @@
 ###Please follow the below steps to Run from command prompt  :
 
 
-1)clone the project from GitHub (https://github.com/silpi70/ToDoMVCSingtel.git)
+1)clone the project from GitHub (https://github.com/silpibanerjee058/ToDoMVCSingtel.git)
 
 2)open command prompt
 
@@ -15,7 +15,7 @@
 
 ### Please follow the below steps to Run from Eclipse IDE  :
 
-1)clone the project from GitHub (https://github.com/silpi70/ToDoMVCSingtel.git)
+1)clone the project from GitHub (https://github.com/silpibanerjee058/ToDoMVCSingtel.git)
 
 2)import the project in Eclipse IDE
 
