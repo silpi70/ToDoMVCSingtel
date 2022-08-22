@@ -1,8 +1,7 @@
-
+###Silpi Banerjee
 ###Steps :
 
 ###Please follow the below steps to Run from command prompt  :
-
 
 1)clone the project from GitHub (https://github.com/silpi70/ToDoMVCSingtel.git)
 
@@ -19,7 +18,7 @@
 
 2)import the project in Eclipse IDE
 
-3)Go to Scenario.feature file under Feautres folder.
+3)Go to Scenario.feature file under Features folder.
 
 4)open Scenario.feature file 
 
